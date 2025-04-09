@@ -74,7 +74,7 @@
 .seccsion-1-1 button {
     font-family: 'Inter';
     font-weight: 700;
-    font-size: 34px;
+    font-size: 64px;
     line-height: 100%;
     background-color: #ffe800; /* For browsers that do not support gradients */
     background-image: linear-gradient(#ffc000, #ff4f00);
